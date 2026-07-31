@@ -36,7 +36,7 @@ These people made a significant impact to the development of Lynis:
 * Alexander Lobodzinski, Germany
 * Bodine Wilson
 * Brian Ginsbach
-* C.J. Adams-Collier, US
+* C.J. Collier, US
 * Charlie Heselton, US
 * Dave Vehrs
 * David Marzal Cánovas, Spain
@@ -46,6 +46,7 @@ These people made a significant impact to the development of Lynis:
 * Mikko Lehtisalo, Finland
 * Steve Bosek, France
 * Thomas Siebel, Germany
+* Thomas Sjögren, Sweden
 * Topi Miettinen, Finland
 * Zach Crownover
 
